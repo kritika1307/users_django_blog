@@ -1,4 +1,1 @@
-
-# django-blog
-
-
+# users_django_blog
